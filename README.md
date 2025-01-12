@@ -1,4 +1,3 @@
-```markdown
 # Aplikasi Kebencanaan Tanah Longsor 🌍⛑️  
 **Proyek UAS Pemsik A11.4703**  
 - **Nama**: Firdaus Youichi Yamamoto  
