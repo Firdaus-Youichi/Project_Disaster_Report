@@ -1,5 +1,3 @@
-Berikut adalah versi yang lebih profesional dan terstruktur untuk README di GitHub:  
-
 ```markdown
 # Aplikasi Kebencanaan Tanah Longsor 🌍⛑️  
 **Proyek UAS Pemsik A11.4703**  
